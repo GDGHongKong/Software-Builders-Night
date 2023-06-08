@@ -45,4 +45,19 @@ thought leadership, problem solving techniques, etc.
 
 We are happy to grow the speaker force. 
 
-Please submit an issue with your interested topic and profile on our GitHub.
+Please [submit an issue](https://github.com/GDGHongKong/Software-Builders-Night/issues/new/choose) on our GitHub.
+
+### Apendix
+The generic rundown for reference.
+
+| Time | Event |
+|---|---|
+| 7:15pm | Check-in |
+| 7:30pm | Opening & GDG Hong Kong introduction by GDG Hong Kong organizer |
+| 7:40pm | {{TBC Topic 1}} - {{TBC Speaker 1 Name, Title, Company}}  15 minutes lightning talks + 5 minutes Q&A |
+| 8:00pm | {{TBC Topic 2}} - {{TBC Speaker 2 Name, Title, Company}}  15 minutes lightning talks + 5 minutes Q&A |
+| 8:20pm | {{TBC Topic 3}} - {{TBC Speaker 3 Name, Title, Company}}  15 minutes lightning talks + 5 minutes Q&A |
+| 8:40pm | Panel Discussion "{{tittle}}" |
+| 9:00pm | Photo |
+| 9:05pm | Networking & Closing |
+
