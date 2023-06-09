@@ -1,16 +1,25 @@
-## Software Builders’ Night for Hong Kong
+## Series of Software Builders’ Night for Hong Kong
 <p align="center"><img src="assets/cover.jpg"></p>
 <p align="center"><code>prompt: group of software engineers sitting on the rooftop, pair programming, hong kong, neon light, night, top-view --ar 256:65 --c 10</code></p>
 
 # Introduction
 
+### Our Vision
+
+Connect software engineering professionals to foster mutual growth.
+
+### Our Mission
+
 We strive to develop a sophisticated system that operates with full transparency, adheres to an open-source structure, and embraces a community-driven approach. We firmly believe that these elements are the most effective way showcasing our passion and the exceptional quality of our events.
+
+### Our System
 
 This repository is carefully designed for:
 
 - Facilitating transparent collaboration between organizers and speakers.
 - Encouraging positive interaction between speakers and the audience.
 - Hosting events systematically and transparently.
+- Accepting all types of contributions from anyone.
 
 
 We have utilized the power of Git and GitHub issues to build our platform with transparency. We use the [issues templates](https://github.com/GDGHongKong/Software-Builders-Night/issues/new/choose) to handle the following operations:
@@ -22,6 +31,12 @@ We have utilized the power of Git and GitHub issues to build our platform with t
 - Maintaining the organizer handbook for running recurring software builders' night events.
 - Keeping a comprehensive historical record of contributions from our sponsors.
 
+### Becoming a Speaker and Submit Your First Talk
+
+We are happy to grow the speaker force. 
+
+Please read the guidelines in the [issue templates](https://github.com/GDGHongKong/Software-Builders-Night/issues/new/choose) and submit the required information. That's it!
+
 ### Show Support and Stay Updated
 1. Login to your GitHub account to star this repository. Turn on the watch of this repository issues and make constributions.
 
@@ -29,7 +44,7 @@ We have utilized the power of Git and GitHub issues to build our platform with t
 
 2. Signup on GDG Hong Kong to receive the latest event update https://gdg.community.dev/gdg-hong-kong/ 
 
-## Software Builders’ Night
+# The Software Builders’ Night
 <p align="center"><img width="200" src="assets/logo.png"></p>
 <p align="center"><code>prompt: squared with round edges mobile app logo design, flat vector app icon of programmers using crane to build hong kong, minimalistic, dull color, white background --ar 1:1 --c 10</code></p>
 
@@ -69,13 +84,7 @@ thought leadership, problem solving techniques, etc.
 - Converge the learning and create positive impacts in your organization
 - Connect more passionate professionals who share the same vision.
 
-### Becoming a Speaker
-
-We are happy to grow the speaker force. 
-
-Please [submit an issue](https://github.com/GDGHongKong/Software-Builders-Night/issues/new/choose) on our GitHub.
-
-### Apendix
+# Apendix
 The generic rundown for reference.
 
 | Time | Event |
