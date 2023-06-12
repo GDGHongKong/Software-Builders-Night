@@ -30,7 +30,13 @@ Advices:
 -->
 
 ### Speaker Profile
-<!-- required, cross reference to your speaker profile with `#` -->
+<!-- required, cross reference to your speaker profile with `#`
+
+You need to add a markdown list (`-`) to display your name from the issues.
+
+Example:
+- #{{issues number}}
+ -->
 
 ### Motivation
 <!-- required, why you want to share this talk? -->

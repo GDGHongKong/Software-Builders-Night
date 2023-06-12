@@ -15,16 +15,15 @@ assignees: ''
 **Venues**: 
 
 **Rundown**
-| Time | Event |
-|---|---|
-| 7:15pm | Check-in |
-| 7:30pm | Opening & GDG Hong Kong introduction by GDG Hong Kong organizer |
-| 7:40pm | {{TBC Topic 1}} - {{TBC Speaker 1 Name, Title, Company}}  15 minutes lightning talks + 5 minutes Q&A |
-| 8:00pm | {{TBC Topic 2}} - {{TBC Speaker 2 Name, Title, Company}}  15 minutes lightning talks + 5 minutes Q&A |
-| 8:20pm | {{TBC Topic 3}} - {{TBC Speaker 3 Name, Title, Company}}  15 minutes lightning talks + 5 minutes Q&A |
-| 8:40pm | Panel Discussion "{{tittle}}" |
-| 9:00pm | Photo |
-| 9:05pm | Networking & Closing |
+
+- 7:15pm Check-in
+- 7:30pm Opening & GDG Hong Kong introduction by GDG Hong Kong organizer
+- 7:40pm {{Talk 1 issue}} - {{Speaker 1 issue}}  15 minutes lightning talks + 5 minutes Q&A
+- 8:00pm {{Talk 2 issue}} - {{Speaker 2 issue}}  15 minutes lightning talks + 5 minutes Q&A
+- 8:20pm {{Talk 3 issue}} - {{Speaker 3 issue}}  15 minutes lightning talks + 5 minutes Q&A 
+- 8:40pm Panel Discussion "{{Discussion issue}}" 
+- 9:00pm Photo
+- 9:05pm Networking & Closing 
 
 
 ## Event Handbook
